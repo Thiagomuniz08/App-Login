@@ -22,3 +22,10 @@ flutter run
 ![App Login](applogin.png)
 
 ## Repositórios 
+https://github.com/Thiagomuniz08/myapp-Bitola
+
+https://github.com/Thiagomuniz08/Investimentos
+
+https://github.com/Thiagomuniz08/Financiamento
+
+https://github.com/Thiagomuniz08/AvaliacaoIMC
